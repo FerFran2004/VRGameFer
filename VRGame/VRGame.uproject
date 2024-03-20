@@ -49,6 +49,13 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "HPMotionController",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
